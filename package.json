@@ -1,0 +1,23 @@
+{
+  "name": "electroncrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianopons/electronCrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianopons/electronCrapper/issues"
+  },
+  "homepage": "https://github.com/adrianopons/electronCrapper#readme",
+  "dependencies": {
+    "electron": "^22.2.0",
+    "puppeteer": "^19.6.3"
+  }
+}
